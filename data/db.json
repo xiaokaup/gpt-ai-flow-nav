@@ -1,1 +1,78 @@
-[{"title":"领域类别","nav":[{"title":"金融科技","nav":[{"title":"金融科技","nav":[{"name":"Agentive","createdAt":"2023-08-09 00:00:00","rate":5,"desc":"提供金融分析和投资建议的AI平台","icon":"https://www.goagentive.com/favicon.ico","url":"https://www.goagentive.com","urls":{},"breadcrumb":["领域类别","金融科技","金融科技"],"id":1},{"name":"Alguna","createdAt":"2023-08-09 00:00:00","rate":5,"desc":"帮助金融机构进行数据分析和风险评估的工具","icon":"https://alguna.io/favicon.ico","url":"https://alguna.io","urls":{},"breadcrumb":["领域类别","金融科技","金融科技"],"id":2},{"name":"Blume Benefits","createdAt":"2023-08-09 00:00:00","rate":5,"desc":"金融福利管理平台","icon":"https://www.blumebenefits.com/favicon.ico","url":"https://www.blumebenefits.com","urls":{},"breadcrumb":["领域类别","金融科技","金融科技"],"id":3},{"name":"CandorIQ","createdAt":"2023-08-09 00:00:00","rate":5,"desc":"财务智能和风险管理工具","icon":"https://www.candoriq.com/favicon.ico","url":"https://www.candoriq.com","urls":{},"breadcrumb":["领域类别","金融科技","金融科技"],"id":4},{"name":"Cascading AI","createdAt":"2023-08-09 00:00:00","rate":5,"desc":"金融数据分析和预测平台","icon":"https://www.cascading.ai/favicon.ico","url":"https://www.cascading.ai","urls":{},"breadcrumb":["领域类别","金融科技","金融科技"],"id":5}],"collapsed":false,"createdAt":"2023-08-09 00:00:00"}],"collapsed":false,"createdAt":"2023-08-09 00:00:00"}],"id":0,"collapsed":false,"createdAt":"2023-08-09 00:00:00"}]
+[
+  {
+    "title": "领域类别",
+    "nav": [
+      {
+        "title": "金融科技",
+        "nav": [
+          {
+            "title": "金融科技",
+            "nav": [
+              {
+                "name": "Agentive",
+                "createdAt": "2023-08-09 00:00:00",
+                "rate": 5,
+                "desc": "提供金融分析和投资建议的AI平台",
+                "icon": "https://www.goagentive.com/favicon.ico",
+                "url": "https://www.goagentive.com",
+                "urls": {},
+                "breadcrumb": ["领域类别", "金融科技", "金融科技"],
+                "id": 1
+              },
+              {
+                "name": "Alguna",
+                "createdAt": "2023-08-09 00:00:00",
+                "rate": 5,
+                "desc": "帮助金融机构进行数据分析和风险评估的工具",
+                "icon": "https://alguna.io/favicon.ico",
+                "url": "https://alguna.io",
+                "urls": {},
+                "breadcrumb": ["领域类别", "金融科技", "金融科技"],
+                "id": 2
+              },
+              {
+                "name": "Blume Benefits",
+                "createdAt": "2023-08-09 00:00:00",
+                "rate": 5,
+                "desc": "金融福利管理平台",
+                "icon": "https://www.blumebenefits.com/favicon.ico",
+                "url": "https://www.blumebenefits.com",
+                "urls": {},
+                "breadcrumb": ["领域类别", "金融科技", "金融科技"],
+                "id": 3
+              },
+              {
+                "name": "CandorIQ",
+                "createdAt": "2023-08-09 00:00:00",
+                "rate": 5,
+                "desc": "财务智能和风险管理工具",
+                "icon": "https://www.candoriq.com/favicon.ico",
+                "url": "https://www.candoriq.com",
+                "urls": {},
+                "breadcrumb": ["领域类别", "金融科技", "金融科技"],
+                "id": 4
+              },
+              {
+                "name": "Cascading AI",
+                "createdAt": "2023-08-09 00:00:00",
+                "rate": 5,
+                "desc": "金融数据分析和预测平台",
+                "icon": "https://www.cascading.ai/favicon.ico",
+                "url": "https://www.cascading.ai",
+                "urls": {},
+                "breadcrumb": ["领域类别", "金融科技", "金融科技"],
+                "id": 5
+              }
+            ],
+            "collapsed": false,
+            "createdAt": "2023-08-09 00:00:00"
+          }
+        ],
+        "collapsed": false,
+        "createdAt": "2023-08-09 00:00:00"
+      }
+    ],
+    "id": 0,
+    "createdAt": "2023-08-09 00:00:00"
+  }
+]
