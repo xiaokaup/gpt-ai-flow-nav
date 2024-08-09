@@ -1,6 +1,6 @@
 [
   {
-    "title": "AI 项目",
+    "title": "AI 初创项目",
     "nav": [
       {
         "title": "领域类别",
@@ -249,10 +249,78 @@
                 "breadcrumb": ["内容创作与娱乐"],
                 "id": 20
               }
-            ]
+            ],
+            "collapsed": false,
+            "createdAt": "2023-08-09"
+          },
+          {
+            "title": "软件研发与开发工具",
+            "nav": [
+              {
+                "name": "AgentHub",
+                "createdAt": "2023-08-09",
+                "rate": 5,
+                "desc": "支持Agent开发的工具和平台",
+                "icon": "https://www.agenthub.dev/favicon.ico",
+                "url": "https://www.agenthub.dev",
+                "urls": {},
+                "breadcrumb": ["软件研发与开发工具"],
+                "id": 21
+              },
+              {
+                "name": "Agentic Labs",
+                "createdAt": "2023-08-09",
+                "rate": 5,
+                "desc": "智能软件开发平台",
+                "icon": "https://agenticlabs.com/favicon.ico",
+                "url": "https://agenticlabs.com",
+                "urls": {},
+                "breadcrumb": ["软件研发与开发工具"],
+                "id": 22
+              },
+              {
+                "name": "Assembly",
+                "createdAt": "2023-08-09",
+                "rate": 5,
+                "desc": "软件开发和协作的智能平台",
+                "icon": "https://www.askassembly.app/favicon.ico",
+                "url": "https://www.askassembly.app",
+                "urls": {},
+                "breadcrumb": ["软件研发与开发工具"],
+                "id": 23
+              },
+              {
+                "name": "Atla",
+                "createdAt": "2023-08-09",
+                "rate": 5,
+                "desc": "开发者的智能工具和平台",
+                "icon": "https://www.atla-ai.com/favicon.ico",
+                "url": "https://www.atla-ai.com",
+                "urls": {},
+                "breadcrumb": ["软件研发与开发工具"],
+                "id": 24
+              },
+              {
+                "name": "camelQA",
+                "createdAt": "2023-08-09",
+                "rate": 5,
+                "desc": "软件质量和测试平台",
+                "icon": "https://camelqa.com/favicon.ico",
+                "url": "https://camelqa.com",
+                "urls": {},
+                "breadcrumb": ["软件研发与开发工具"],
+                "id": 25
+              }
+            ],
+            "collapsed": false,
+            "createdAt": "2023-08-09"
           }
-        ]
+        ],
+        "collapsed": false,
+        "createdAt": "2023-08-09"
       }
-    ]
+    ],
+    "id": 0,
+    "createdAt": "2023-08-09"
   }
 ]

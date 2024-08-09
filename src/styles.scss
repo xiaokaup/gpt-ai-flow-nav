@@ -1,9 +1,9 @@
 // Copyright @ 2018-present xiejiahe. All rights reserved. MIT license.
 // See https://github.com/xjh22222228/nav
 
-@import './dark.scss';
-@import '../node_modules/ng-zorro-antd/ng-zorro-antd.css';
-@import './assets/ng-zorro-antd.dark.scss';
+@import "./dark.scss";
+@import "../node_modules/ng-zorro-antd/ng-zorro-antd.css";
+@import "./assets/ng-zorro-antd.dark.scss";
 
 html {
   -ms-text-size-adjust: 100%;
@@ -51,7 +51,7 @@ textarea {
   font-size: 100%;
 }
 
-input[type='text'],
+input[type="text"],
 button {
   -webkit-appearance: none;
   outline: none;
@@ -188,7 +188,9 @@ textarea.ant-input {
   right: 0px;
   width: 100px;
   height: 100%;
-  box-shadow: 0 0 10px #29d, 0 0 5px #29d;
+  box-shadow:
+    0 0 10px #29d,
+    0 0 5px #29d;
   opacity: 1;
 
   -webkit-transform: rotate(3deg) translate(0px, -4px);
@@ -247,9 +249,10 @@ textarea.ant-input {
 }
 
 .ellipsis {
-  white-space: nowrap !important;
-  overflow: hidden !important;
-  text-overflow: ellipsis !important;
+  // @DEV
+  // white-space: nowrap !important;
+  // overflow: hidden !important;
+  // text-overflow: ellipsis !important;
 }
 
 .ellipsis2 {
