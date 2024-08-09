@@ -16,7 +16,7 @@
                 "icon": "https://www.goagentive.com/favicon.ico",
                 "url": "https://www.goagentive.com",
                 "urls": {},
-                "breadcrumb": ["金融科技"],
+                "breadcrumb": ["AI 初创项目", "领域类别", "金融科技"],
                 "id": 1
               },
               {
@@ -27,7 +27,7 @@
                 "icon": "https://alguna.io/favicon.ico",
                 "url": "https://alguna.io",
                 "urls": {},
-                "breadcrumb": ["金融科技"],
+                "breadcrumb": ["AI 初创项目", "领域类别", "金融科技"],
                 "id": 2
               },
               {
@@ -38,7 +38,7 @@
                 "icon": "https://www.blumebenefits.com/favicon.ico",
                 "url": "https://www.blumebenefits.com",
                 "urls": {},
-                "breadcrumb": ["金融科技"],
+                "breadcrumb": ["AI 初创项目", "领域类别", "金融科技"],
                 "id": 3
               },
               {
@@ -49,7 +49,7 @@
                 "icon": "https://www.candoriq.com/favicon.ico",
                 "url": "https://www.candoriq.com",
                 "urls": {},
-                "breadcrumb": ["金融科技"],
+                "breadcrumb": ["AI 初创项目", "领域类别", "金融科技"],
                 "id": 4
               },
               {
@@ -60,7 +60,7 @@
                 "icon": "https://www.cascading.ai/favicon.ico",
                 "url": "https://www.cascading.ai",
                 "urls": {},
-                "breadcrumb": ["金融科技"],
+                "breadcrumb": ["AI 初创项目", "领域类别", "金融科技"],
                 "id": 5
               }
             ],
@@ -78,7 +78,7 @@
                 "icon": "https://www.agentsforce.com/favicon.ico",
                 "url": "https://www.agentsforce.com",
                 "urls": {},
-                "breadcrumb": ["客户关系管理"],
+                "breadcrumb": ["AI 初创项目", "领域类别", "客户关系管理"],
                 "id": 6
               },
               {
@@ -89,7 +89,7 @@
                 "icon": "https://aisdr.com/favicon.ico",
                 "url": "https://aisdr.com",
                 "urls": {},
-                "breadcrumb": ["客户关系管理"],
+                "breadcrumb": ["AI 初创项目", "领域类别", "客户关系管理"],
                 "id": 7
               },
               {
@@ -100,7 +100,7 @@
                 "icon": "https://helloamber.ai/favicon.ico",
                 "url": "https://helloamber.ai",
                 "urls": {},
-                "breadcrumb": ["客户关系管理"],
+                "breadcrumb": ["AI 初创项目", "领域类别", "客户关系管理"],
                 "id": 8
               },
               {
@@ -111,7 +111,7 @@
                 "icon": "https://artisan.co/favicon.ico",
                 "url": "https://artisan.co",
                 "urls": {},
-                "breadcrumb": ["客户关系管理"],
+                "breadcrumb": ["AI 初创项目", "领域类别", "客户关系管理"],
                 "id": 9
               },
               {
@@ -122,7 +122,7 @@
                 "icon": "https://www.usecentralize.com/favicon.ico",
                 "url": "https://www.usecentralize.com",
                 "urls": {},
-                "breadcrumb": ["客户关系管理"],
+                "breadcrumb": ["AI 初创项目", "领域类别", "客户关系管理"],
                 "id": 10
               }
             ],
@@ -140,7 +140,7 @@
                 "icon": "https://www.anaphero.com/favicon.ico",
                 "url": "https://www.anaphero.com",
                 "urls": {},
-                "breadcrumb": ["医疗健康"],
+                "breadcrumb": ["AI 初创项目", "领域类别", "医疗健康"],
                 "id": 11
               },
               {
@@ -151,7 +151,7 @@
                 "icon": "https://with-andy.com/favicon.ico",
                 "url": "https://with-andy.com",
                 "urls": {},
-                "breadcrumb": ["医疗健康"],
+                "breadcrumb": ["AI 初创项目", "领域类别", "医疗健康"],
                 "id": 12
               },
               {
@@ -162,7 +162,7 @@
                 "icon": "https://www.argon-ai.com/favicon.ico",
                 "url": "https://www.argon-ai.com",
                 "urls": {},
-                "breadcrumb": ["医疗健康"],
+                "breadcrumb": ["AI 初创项目", "领域类别", "医疗健康"],
                 "id": 13
               },
               {
@@ -173,7 +173,7 @@
                 "icon": "https://www.cairhealth.com/favicon.ico",
                 "url": "https://www.cairhealth.com",
                 "urls": {},
-                "breadcrumb": ["医疗健康"],
+                "breadcrumb": ["AI 初创项目", "领域类别", "医疗健康"],
                 "id": 14
               },
               {
@@ -184,7 +184,7 @@
                 "icon": "https://elythea.org/favicon.ico",
                 "url": "https://elythea.org",
                 "urls": {},
-                "breadcrumb": ["医疗健康"],
+                "breadcrumb": ["AI 初创项目", "领域类别", "医疗健康"],
                 "id": 15
               }
             ],
@@ -202,7 +202,7 @@
                 "icon": "https://anneal.ai/favicon.ico",
                 "url": "https://anneal.ai",
                 "urls": {},
-                "breadcrumb": ["内容创作与娱乐"],
+                "breadcrumb": ["AI 初创项目", "领域类别", "内容创作与娱乐"],
                 "id": 16
               },
               {
@@ -213,7 +213,7 @@
                 "icon": "https://draftaid.io/favicon.ico",
                 "url": "https://draftaid.io",
                 "urls": {},
-                "breadcrumb": ["内容创作与娱乐"],
+                "breadcrumb": ["AI 初创项目", "领域类别", "内容创作与娱乐"],
                 "id": 17
               },
               {
@@ -224,7 +224,7 @@
                 "icon": "https://edgetrace.ai/favicon.ico",
                 "url": "https://edgetrace.ai",
                 "urls": {},
-                "breadcrumb": ["内容创作与娱乐"],
+                "breadcrumb": ["AI 初创项目", "领域类别", "内容创作与娱乐"],
                 "id": 18
               },
               {
@@ -235,7 +235,7 @@
                 "icon": "https://www.eggnog.ai/favicon.ico",
                 "url": "https://www.eggnog.ai",
                 "urls": {},
-                "breadcrumb": ["内容创作与娱乐"],
+                "breadcrumb": ["AI 初创项目", "领域类别", "内容创作与娱乐"],
                 "id": 19
               },
               {
@@ -246,7 +246,7 @@
                 "icon": "https://focalml.com/favicon.ico",
                 "url": "https://focalml.com",
                 "urls": {},
-                "breadcrumb": ["内容创作与娱乐"],
+                "breadcrumb": ["AI 初创项目", "领域类别", "内容创作与娱乐"],
                 "id": 20
               }
             ],
@@ -264,7 +264,7 @@
                 "icon": "https://www.agenthub.dev/favicon.ico",
                 "url": "https://www.agenthub.dev",
                 "urls": {},
-                "breadcrumb": ["软件研发与开发工具"],
+                "breadcrumb": ["AI 初创项目", "领域类别", "软件研发与开发工具"],
                 "id": 21
               },
               {
@@ -275,7 +275,7 @@
                 "icon": "https://agenticlabs.com/favicon.ico",
                 "url": "https://agenticlabs.com",
                 "urls": {},
-                "breadcrumb": ["软件研发与开发工具"],
+                "breadcrumb": ["AI 初创项目", "领域类别", "软件研发与开发工具"],
                 "id": 22
               },
               {
@@ -286,7 +286,7 @@
                 "icon": "https://www.askassembly.app/favicon.ico",
                 "url": "https://www.askassembly.app",
                 "urls": {},
-                "breadcrumb": ["软件研发与开发工具"],
+                "breadcrumb": ["AI 初创项目", "领域类别", "软件研发与开发工具"],
                 "id": 23
               },
               {
@@ -297,7 +297,7 @@
                 "icon": "https://www.atla-ai.com/favicon.ico",
                 "url": "https://www.atla-ai.com",
                 "urls": {},
-                "breadcrumb": ["软件研发与开发工具"],
+                "breadcrumb": ["AI 初创项目", "领域类别", "软件研发与开发工具"],
                 "id": 24
               },
               {
@@ -308,7 +308,7 @@
                 "icon": "https://camelqa.com/favicon.ico",
                 "url": "https://camelqa.com",
                 "urls": {},
-                "breadcrumb": ["软件研发与开发工具"],
+                "breadcrumb": ["AI 初创项目", "领域类别", "软件研发与开发工具"],
                 "id": 25
               }
             ],
