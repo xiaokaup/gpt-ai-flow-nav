@@ -8,36 +8,63 @@
           {
             "title": "法律",
             "nav": [
-              {
-                "name": "Abel",
-                "url": "https://www.tryabel.com",
-                "tech": "RAG",
-                "domain": "法律"
-              },
-              {
-                "name": "Casehopper",
-                "url": "http://www.casehopper.com",
-                "tech": "Agent",
-                "domain": "法律"
-              },
-              {
-                "name": "Docsum",
-                "url": "https://www.docsum.ai/",
-                "tech": "Agent",
-                "domain": "法律"
-              },
-              {
-                "name": "Leya",
-                "url": "https://www.leya.law/",
-                "tech": "Agent",
-                "domain": "法律"
-              },
-              {
-                "name": "PointOne",
-                "url": "https://pointone.ai/",
-                "tech": "Agent",
-                "domain": "法律"
-              }
+              [
+                {
+                  "name": "Abel",
+                  "createdAt": "2023-08-09 00:00:00",
+                  "rate": 5,
+                  "desc": "Abel is an AI platform designed for legal professionals, offering powerful automations and robust search capabilities to handle large volumes of files efficiently.",
+                  "icon": "https://www.tryabel.com/favicon.ico",
+                  "url": "https://www.tryabel.com",
+                  "urls": {},
+                  "breadcrumb": ["领域类别", "法律科技", "法律"],
+                  "id": 1
+                },
+                {
+                  "name": "Casehopper",
+                  "createdAt": "2023-08-09 00:00:00",
+                  "rate": 5,
+                  "desc": "Casehopper is an AI-driven tool that streamlines legal drafting, offering efficient document revision and creative brainstorming with access to a comprehensive legal library.",
+                  "icon": "https://www.casehopper.com/favicon.ico",
+                  "url": "http://www.casehopper.com",
+                  "urls": {},
+                  "breadcrumb": ["领域类别", "法律科技", "法律"],
+                  "id": 2
+                },
+                {
+                  "name": "Docsum",
+                  "createdAt": "2023-08-09 00:00:00",
+                  "rate": 5,
+                  "desc": "Docsum is an AI-powered legal assistant that provides document summarization and analysis to enhance legal research and case preparation.",
+                  "icon": "https://www.docsum.ai/favicon.ico",
+                  "url": "https://www.docsum.ai/",
+                  "urls": {},
+                  "breadcrumb": ["领域类别", "法律科技", "法律"],
+                  "id": 3
+                },
+                {
+                  "name": "Leya",
+                  "createdAt": "2023-08-09 00:00:00",
+                  "rate": 5,
+                  "desc": "Leya offers AI-driven legal solutions, focusing on automating routine tasks and improving the efficiency of legal workflows.",
+                  "icon": "https://www.leya.law/favicon.ico",
+                  "url": "https://www.leya.law/",
+                  "urls": {},
+                  "breadcrumb": ["领域类别", "法律科技", "法律"],
+                  "id": 4
+                },
+                {
+                  "name": "PointOne",
+                  "createdAt": "2023-08-09 00:00:00",
+                  "rate": 5,
+                  "desc": "PointOne provides AI tools for legal professionals, enhancing document management and client interactions through advanced technology.",
+                  "icon": "https://pointone.ai/favicon.ico",
+                  "url": "https://pointone.ai/",
+                  "urls": {},
+                  "breadcrumb": ["领域类别", "法律科技", "法律"],
+                  "id": 5
+                }
+              ]
             ]
           },
           {
