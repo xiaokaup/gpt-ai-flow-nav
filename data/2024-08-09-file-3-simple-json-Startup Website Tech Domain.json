@@ -1,261 +1,1544 @@
-Startup	Website	Tech	Domain
-Abel	https://www.tryabel.com	RAG	法律
-Aether Energy	https://aetherenergie.com/	Agent	能源
-AgentHub	https://www.agenthub.dev/	Agent	Agent开发
-Agentic Labs	https://agenticlabs.com	Agent	软件研发
-Agentive	https://www.goagentive.com	Agent	金融
-AgentsForce	https://www.agentsforce.com/	Agent	CRM
-Aidy	https://www.aidygrants.com/	Agent	政务
-Airfront	https://www.airfront.com/	Agent	泛工具
-AiSDR	https://aisdr.com/	Agent	CRM
-Alai	https://getalai.com	Multimodal LLM	泛工具
-Alguna	https://alguna.io	Agent	金融
-Amber AI	https://helloamber.ai/	Agent	CRM
-Anaphero	https://www.anaphero.com/	Agent	医药
-Andy AI	https://with-andy.com	Agent	医药
-Anneal	https://anneal.ai/	Multimodal LLM	内容创作
-Apriora	https://www.apriora.ai	Agent	HR
-Aqua Voice	https://withaqua.com	Multimodal LLM	to C 工具
-Arcane	https://arcanelabs.ai/	Agent	to C 娱乐
-Arcimus	https://www.arcimus.com/	Agent	金融
-Argon AI, Inc.	https://www.argon-ai.com/	Agent	医药
-Arini	https://www.arini.ai	Agent	医药
-Artisan AI	https://artisan.co/	Agent	CRM
-Artos	https://www.artosai.com/	Agent	医药
-askLio	https://www.asklio.ai	Agent	金融
-Assembly	https://www.askassembly.app/	Agent	软件研发
-Atla	https://www.atla-ai.com/	Agent	软件研发
-Automorphic	https://automorphic.ai/	Agent	AI基础设施
-Autotab	https://autotab.com	Agent	Agent开发
-Basepilot	https://www.basepilot.com/	Agent	Agent开发
-Baserun	https://baserun.ai	Agent	AI基础设施
-BetterBasket	http://betterbasket.ai	Agent	电商
-Blume Benefits	https://www.blumebenefits.com/	Agent	金融
-Brainbase	https://usebrainbase.com	Agent	泛工具
-Branch AI	https://www.branch-ai.com	Agent	电商
-Bronco AI	https://www.bronco.ai/	Agent	工业制造
-Buster	http://buster.so	Infra	AI基础设施
-Cair Health	https://www.cairhealth.com/	Agent	医药
-camelQA	https://camelqa.com/	Agent	软件研发
-CandorIQ	https://www.candoriq.com/	Agent	金融
-Cascading AI	https://www.cascading.ai/	Agent	金融
-Casehopper	http://www.casehopper.com	Agent	法律
-Cedalio	https://cedalio.com/	区块链	数据处理分析
-Cedana	https://www.cedana.ai	Infra	软件研发
-Centauri AI	https://centauri-ai.tech	Agent	金融
-Centralize	https://www.usecentralize.com/	Agent	CRM
-Cerelyze	https://cerelyze.com	Agent	软件研发
-Circleback	https://circleback.ai	Multimodal LLM	泛工具
-CloudCruise	https://cloudcruise.com	Agent	Agent开发
-CodeAnt AI	https://codeant.ai/	Agent	软件研发
-CommodityAI	https://commodityai.io/	Agent	电商
-Constructable	https://www.constructable.ai/	Agent	建筑地产
-Continue	https://continue.dev	Agent	软件研发
-Corgea	https://www.corgea.com/	Agent	安全
-Creo	https://trycreo.com	Agent	软件研发
-Crew	https://www.trycrew.ai	Agent	HR
-DaLMatian	https://www.dalmatian.ai/	Agent	数据处理分析
-Danswer	https://www.danswer.ai/	Agent	泛工具
-Datacurve	https://datacurve.ai/	Agent	软件研发
-Deasie	https://deasie.com	Agent	数据处理分析
-Decipher AI	https://getdecipher.com	Agent	软件研发
-Decoda Health	https://decoda.health/	Agent	医药
-devmark	https://www.devmark.ai/	Agent	软件研发
-Dili	https://www.diliai.com/	Agent	金融
-Diligent	https://godiligent.ai	Agent	金融
-Docsum	https://www.docsum.ai/	Agent	法律
-Draftaid	https://draftaid.io/	Agent	内容创作
-Driver AI	https://www.driverai.com/	Agent	软件研发
-DryMerge	https://www.drymerge.com	Agent	泛工具
-Duckie	https://duckie.ai/	Agent	软件研发
-Ecliptor	https://ecliptor.ai	Agent	CRM
-EdgeTrace	https://edgetrace.ai	Multimodal LLM	内容创作
-Eggnog	https://www.eggnog.ai	Multimodal LLM	内容创作
-ego	https://ego.live	Multimodal LLM	to C 娱乐
-Egress	https://tryegress.com/	Agent	数据处理分析
-Ellipsis	https://ellipsis.dev	Agent	软件研发
-Elythea	https://elythea.org/	Agent	医药
-Empower	https://www.empower.dev	Infra	AI基础设施
-Epsilla	https://www.epsilla.com/	Agent	AI基础设施
-Fiber AI	https://fiber.ai/	Agent	CRM
-Firebender	https://firebender.com	Agent	CRM
-FleetWorks	https://fleetworks.ai	Agent	电商
-Flint	http://flintk12.com/	Multimodal LLM	教育
-FlowiseAI	https://flowiseai.com	Agent	软件研发
-Fluently	https://getfluently.app/	Multimodal LLM	教育
-Focal	https://focalml.com	Multimodal LLM	内容创作
-Foundation	https://buildwithfoundation.com/	Agent	建筑地产
-Fragment	https://checkfragment.com	Agent	金融
-Fume	https://fumedev.com	Agent	软件研发
-Fynt AI	https://www.fynt.ai/	Agent	金融
-Giga ML	https://gigaml.com/	Agent	AI基础设施
-Glade	https://www.gladetool.com	Multimodal LLM	to C 娱乐
-Glimmer	https://www.withglimmer.com/	RAG	泛工具
-GovernGPT	https://www.governgpt.ai/	Agent	金融
-Greenlite	https://www.greenlite.ai/	Agent	金融
-Greptile	https://www.greptile.com	Agent	软件研发
-Guide Labs	https://www.guidelabs.ai/	Infra	AI基础设施
-Happenstance	https://happenstance.ai	Agent	泛工具
-Hazel	https://hazeltech.ai/	RAG	政务
-Health Harbor	https://healthharbor.co/	Multimodal LLM	医药
-Hemingway	https://hemingwayai.co	Agent	医药
-HeyPurple	https://www.heypurple.ai/	Agent	建筑地产
-Hona	https://www.hona.ai	Agent	医药
-HostAI	https://www.hostai.app/	Agent	旅游
-Inari	https://useinari.com	Agent	软件研发
-Infinity AI	https://infinity.ai	Multimodal LLM	内容创作
-Infobot	https://infobot.ai/	Agent	内容创作
-Inlet	https://getinlet.ai	Agent	软件研发
-innkeeper	https://innkeeper.ai	Agent	旅游
-InspectMind AI	https://www.inspectmind.ai	Agent	建筑地产
-Inventive AI	https://getinventive.ai/	Agent	CRM
-ion design	https://www.ion.design/	Agent	软件研发
-Junction Bioscience	https://www.junction.bio/	Agent	医药
-just words	https://justwords.ai	Agent	泛工具
-K-Scale Labs	https://kscale.dev/	机器人	机器人
-Kabilah	https://www.kabilah.com	Agent	医药
-kater.ai	https://www.kater.ai	Agent	数据处理分析
-Keywords AI	https://keywordsai.co	Infra	AI基础设施
-Khoj	https://khoj.dev/	Agent	泛工具
-Kino AI	https://trykino.com	Multimodal LLM	内容创作
-Kiosk	https://www.kiosk.so	Agent	CRM
-Kite	https://kite.video	Multimodal LLM	内容创作
-Kobalt Labs	https://www.kobaltlabs.com/	Agent	金融
-Lantern	http://lantern.dev	Agent	AI基础设施
-Latentspace	https://menza.ai/	Agent	数据处理分析
-Lavalamp	https://www.lavalamp.ai	Multimodal LLM	to C 工具
-Leaping	https://www.leaping.io/	Agent	软件研发
-第一集分割线			
-Leya	https://www.leya.law/	Agent	法律
-Linc	https://www.linc-ai.com/	Agent	物流
-Lucite	https://www.lucite.ai/	Agent	金融
-Lumina	https://lumina-chat.com	Agent	科研
-Lumona	https://www.lumona.ai	Agent	电商
-Magic Hour	https://magichour.ai	Multimodal LLM	内容创作
-Maia	https://www.ourmaia.com/	Agent	医药
-MAIHEM	https://www.maihem.ai/	Agent	AI基础设施
-Manifold Freight	https://www.manifoldfreight.com/	Agent	物流
-Marblism	https://marblism.com	Agent	软件研发
-Markprompt	https://markprompt.com	Agent	CRM
-Marr Labs	https://www.marrlabs.com/	Agent	CRM
-Martin	https://www.trymartin.com/	Agent	泛工具
-MathGPTPro	https://info.mathgptpro.com/	Agent	教育
-MediSearch	https://medisearch.io	Agent	医药
-Metalware	https://www.metalware.io/	Agent	软件研发
-Meticulate	https://meticulate.ai/	Agent	金融
-Metoro	https://metoro.io	Agent	IT运维
-Million	https://million.dev	Agent	软件研发
-Model ML	https://www.modelml.com/	Multimodal LLM	金融
-Momentic	https://momentic.ai	Agent	软件研发
-Navier AI	http://navier.ai	Agent	工业制造
-nCompass Technologies	https://ncompass.tech	Infra	AI基础设施
-Nowadays	http://getnowadays.com/	Agent	泛工具
-NowHouse	https://www.nowhouse.io	Agent	金融
-Nuanced, Inc.	https://www.nuanced.dev/	Multimodal LLM	安全
-Octolane AI	https://www.octolane.com	Agent	CRM
-Ocular AI	https://useocular.com	RAG	泛工具
-OffDeal	https://offdeal.io	Agent	金融
-Olio Labs	https://oliolabs.co/	Agent	医药
-OmniAI	https://getomni.ai	Agent	AI基础设施
-OneGrep	https://www.onegrep.dev	Agent	软件研发
-Opencall.ai	https://opencall.ai	Agent	CRM
-OpenCopilot	https://opencopilot.so	Agent	Agent开发
-OpenFoundry	https://www.openfoundry.ai/	Agent	软件研发
-Openmart	https://www.openmart.ai	Agent	CRM
-OpenPipe	https://openpipe.ai/	Agent	软件研发
-Orbio Earth	https://www.orbio.earth/	Multimodal LLM	金融
-Outset	https://outset.ai/	Agent	科研
-Paradigm	https://www.tryparadigm.ai/	Agent	Agent开发
-Parasale	https://parasale.io	Agent	HR
-Patchwork	https://atpatchwork.com/	Agent	泛工具
-Phospho	https://phospho.ai	Infra	AI基础设施
-Pico	http://withpico.com	Multimodal LLM	to C 工具
-Pincites	https://www.pincites.com/	Agent	金融
-Piramidal	https://piramidal.ai	Agent	医药
-Pivot Robots	https://pivotrobots.com	Agent	机器人
-PocketPod	https://pocketpod.app	Agent	to C 娱乐
-Pointhound	http://www.pointhound.com	Agent	金融
-PointOne	https://pointone.ai/	Agent	法律
-Poozle	https://www.usemira.ai	Agent	软件研发
-Powder	https://www.powderfi.com/	Agent	金融
-Preloop	https://www.preloop.com	Infra	AI基础设施
-Pretzel AI	https://withpretzel.com	Agent	软件研发
-ProdTrace	https://www.prodtrace.com/	Agent	工业制造
-PromptArmor	https://promptarmor.com/	Agent	安全
-ProSights	https://prosights.co/	Agent	金融
-Pythagora (GPT Pilot)	https://pythagora.ai/	Agent	软件研发
-Quantic	https://www.quantichq.com	Agent	CRM
-Quary	https://www.quary.dev	Infra	AI基础设施
-Quill AI	https://quillai.com	Agent	金融
-Quivr	https://www.quivr.com/		
-RadMate AI	https://www.radmate.ai	Agent	医药
-Ragas	https://www.ragas.io	Infra	AI基础设施
-Raz	https://www.tryraz.com	Agent	CRM
-Reducto	https://reducto.ai	Agent	数据处理分析
-Reform	https://www.reformhq.com	Agent	物流
-Remy Security	https://www.remysec.com/	Agent	安全
-Reprompt	https://repromptai.com	Agent	软件研发
-Respaid	https://www.respaid.com	Agent	金融
-RetailReady	https://www.retailreadyai.com/	Agent	电商
-Retell AI	https://retellai.com	Agent	AI基础设施
-Revamp	https://www.getrevamp.ai	Agent	电商
-Reworkd AI	https://reworkd.ai	Agent	Agent开发
-Risotto	https://www.tryrisotto.com	Agent	IT运维
-Roame	https://roame.travel/	Agent	金融
-Roundtable	https://roundtable.ai	Agent	数据处理分析
-SciPhi	https://www.sciphi.ai	Agent	AI基础设施
-Scritch	https://www.joinscritch.com	Agent	医药
-Senso	http://www.senso.ai	Agent	CRM
-Sero AI	https://getsero.ai	Agent	安全
-Serra	https://www.serra.io/	Agent	数据处理分析
-SevnAI	http://sevn.ai	Multimodal LLM	内容创作
-Shadeform	https://www.shadeform.ai/	Agent	软件研发
-Shasta Health	https://www.shasta.health	Agent	医药
-Shepherd	https://www.shepherd.study	Agent	教育
-SID	https://www.sid.ai	Agent	数据处理分析
-Sidenote	https://www.sidenote.ai	Agent	to C 工具
-sizeless	https://www.sizeless.co	Agent	AI基础设施
-Skyvern	https://www.skyvern.com/	Agent	软件研发
-Slicker	https://www.slickerhq.com	Agent	金融
-Sohar Health	https://www.soharhealth.com	Agent	医药
-Sola	https://www.sola-solutions.com/	Agent	AI基础设施
-Somn	https://somnapp.com	Agent	医药
-Sonauto	https://sonauto.ai/	Multimodal LLM	to C 娱乐
-Sonia	https://soniahealth.com	Agent	医药
-Soundry AI	https://soundry.ai/	Multimodal LLM	to C 娱乐
-Spark	https://www.sparkhq.ai	Agent	能源
-Speck	https://speck.bot	Agent	Agent开发
-Spine AI	https://www.getspine.ai	Agent	软件研发
-Structured	https://www.structuredlabs.io/	Agent	软件研发
-Studdy	https://www.studdy.ai/	Agent	教育
-sudocode	https://sudocode.ai/	Agent	软件研发
-Superagent	https://superagent.sh/	Agent	Agent开发
-Sweetspot	https://www.sweetspot.so/	Agent	政务
-Synaptiq	https://synaptiq.co/	Agent	医药
-sync labs	https://synclabs.so/	Multimodal LLM	AI基础设施
-Taiki	https://www.taiki.ai	Agent	金融
-Talc	https://talc.ai	Infra	AI基础设施
-Taylor AI	https://trytaylor.ai	Infra	AI基础设施
-Tempo Labs	https://www.tempolabs.ai/	Agent	软件研发
-ten.dev	https://ten.dev	Multimodal LLM	软件研发
-Tensorfuse	https://www.tensorfuse.io/	Infra	AI基础设施
-Toma	https://www.toma.so/	Agent	CRM
-Topo	https://www.topo.io/	Agent	CRM
-Tracecat	https://tracecat.com	Agent	安全
-Trellis	https://usetrellis.co	Agent	数据处理分析
-trendup	https://trendup.ai/	Multimodal LLM	电商
-Trieve	https://trieve.ai	RAG	泛工具
-truemetrics	https://www.truemetrics.io/	Agent	电商
-Tusk	https://usetusk.ai	Agent	软件研发
-Unhaze	https://unhaze.ai	Agent	CRM
-Upsolve AI	https://upsolve.ai/	Agent	软件研发
-Vango AI	https://vango.ai/	Infra	AI基础设施
-VectorShift	https://www.vectorshift.ai	Agent	AI基础设施
-Vectorview	https://vectorview.ai	Agent	AI基础设施
-Veles	http://www.getveles.com	Agent	CRM
-venta	https://www.getventa.ai	Agent	CRM
-Vizly	https://vizly.fyi	Agent	数据处理分析
-Watto AI	https://www.watto.ai	Agent	软件研发
-Wuri	https://www.wuri.ai/	Multimodal LLM	内容创作
-Yarn	https://www.yarn.so	Multimodal LLM	内容创作
-Yondu	https://www.yonduai.com/	Agent	机器人
+{
+  "title": "AI 项目",
+  "nav": [
+    {
+      "title": "领域类别",
+      "nav": [
+        {
+          "title": "法律",
+          "nav": [
+            {
+              "name": "Abel",
+              "url": "https://www.tryabel.com",
+              "tech": "RAG",
+              "domain": "法律"
+            },
+            {
+              "name": "Casehopper",
+              "url": "http://www.casehopper.com",
+              "tech": "Agent",
+              "domain": "法律"
+            },
+            {
+              "name": "Docsum",
+              "url": "https://www.docsum.ai/",
+              "tech": "Agent",
+              "domain": "法律"
+            },
+            {
+              "name": "Leya",
+              "url": "https://www.leya.law/",
+              "tech": "Agent",
+              "domain": "法律"
+            },
+            {
+              "name": "PointOne",
+              "url": "https://pointone.ai/",
+              "tech": "Agent",
+              "domain": "法律"
+            }
+          ]
+        },
+        {
+          "title": "能源",
+          "nav": [
+            {
+              "name": "Aether Energy",
+              "url": "https://aetherenergie.com/",
+              "tech": "Agent",
+              "domain": "能源"
+            },
+            {
+              "name": "Spark",
+              "url": "https://www.sparkhq.ai",
+              "tech": "Agent",
+              "domain": "能源"
+            }
+          ]
+        },
+        {
+          "title": "Agent开发",
+          "nav": [
+            {
+              "name": "AgentHub",
+              "url": "https://www.agenthub.dev/",
+              "tech": "Agent",
+              "domain": "Agent开发"
+            },
+            {
+              "name": "Autotab",
+              "url": "https://autotab.com",
+              "tech": "Agent",
+              "domain": "Agent开发"
+            },
+            {
+              "name": "Basepilot",
+              "url": "https://www.basepilot.com/",
+              "tech": "Agent",
+              "domain": "Agent开发"
+            },
+            {
+              "name": "CloudCruise",
+              "url": "https://cloudcruise.com",
+              "tech": "Agent",
+              "domain": "Agent开发"
+            },
+            {
+              "name": "OpenCopilot",
+              "url": "https://opencopilot.so",
+              "tech": "Agent",
+              "domain": "Agent开发"
+            },
+            {
+              "name": "Paradigm",
+              "url": "https://www.tryparadigm.ai/",
+              "tech": "Agent",
+              "domain": "Agent开发"
+            },
+            {
+              "name": "Reworkd AI",
+              "url": "https://reworkd.ai",
+              "tech": "Agent",
+              "domain": "Agent开发"
+            },
+            {
+              "name": "Speck",
+              "url": "https://speck.bot",
+              "tech": "Agent",
+              "domain": "Agent开发"
+            },
+            {
+              "name": "Superagent",
+              "url": "https://superagent.sh/",
+              "tech": "Agent",
+              "domain": "Agent开发"
+            }
+          ]
+        },
+        {
+          "title": "软件研发",
+          "nav": [
+            {
+              "name": "Agentic Labs",
+              "url": "https://agenticlabs.com",
+              "tech": "Agent",
+              "domain": "软件研发"
+            },
+            {
+              "name": "Assembly",
+              "url": "https://www.askassembly.app/",
+              "tech": "Agent",
+              "domain": "软件研发"
+            },
+            {
+              "name": "Atla",
+              "url": "https://www.atla-ai.com/",
+              "tech": "Agent",
+              "domain": "软件研发"
+            },
+            {
+              "name": "camelQA",
+              "url": "https://camelqa.com/",
+              "tech": "Agent",
+              "domain": "软件研发"
+            },
+            {
+              "name": "Cerelyze",
+              "url": "https://cerelyze.com",
+              "tech": "Agent",
+              "domain": "软件研发"
+            },
+            {
+              "name": "CodeAnt AI",
+              "url": "https://codeant.ai/",
+              "tech": "Agent",
+              "domain": "软件研发"
+            },
+            {
+              "name": "Continue",
+              "url": "https://continue.dev",
+              "tech": "Agent",
+              "domain": "软件研发"
+            },
+            {
+              "name": "Datacurve",
+              "url": "https://datacurve.ai/",
+              "tech": "Agent",
+              "domain": "软件研发"
+            },
+            {
+              "name": "Decipher AI",
+              "url": "https://getdecipher.com",
+              "tech": "Agent",
+              "domain": "软件研发"
+            },
+            {
+              "name": "devmark",
+              "url": "https://www.devmark.ai/",
+              "tech": "Agent",
+              "domain": "软件研发"
+            },
+            {
+              "name": "Driver AI",
+              "url": "https://www.driverai.com/",
+              "tech": "Agent",
+              "domain": "软件研发"
+            },
+            {
+              "name": "Duckie",
+              "url": "https://duckie.ai/",
+              "tech": "Agent",
+              "domain": "软件研发"
+            },
+            {
+              "name": "Ellipsis",
+              "url": "https://ellipsis.dev",
+              "tech": "Agent",
+              "domain": "软件研发"
+            },
+            {
+              "name": "FlowiseAI",
+              "url": "https://flowiseai.com",
+              "tech": "Agent",
+              "domain": "软件研发"
+            },
+            {
+              "name": "Fume",
+              "url": "https://fumedev.com",
+              "tech": "Agent",
+              "domain": "软件研发"
+            },
+            {
+              "name": "Greptile",
+              "url": "https://www.greptile.com",
+              "tech": "Agent",
+              "domain": "软件研发"
+            },
+            {
+              "name": "Inari",
+              "url": "https://useinari.com",
+              "tech": "Agent",
+              "domain": "软件研发"
+            },
+            {
+              "name": "ion design",
+              "url": "https://www.ion.design/",
+              "tech": "Agent",
+              "domain": "软件研发"
+            },
+            {
+              "name": "Leaping",
+              "url": "https://www.leaping.io/",
+              "tech": "Agent",
+              "domain": "软件研发"
+            },
+            {
+              "name": "Marblism",
+              "url": "https://marblism.com",
+              "tech": "Agent",
+              "domain": "软件研发"
+            },
+            {
+              "name": "Metalware",
+              "url": "https://www.metalware.io/",
+              "tech": "Agent",
+              "domain": "软件研发"
+            },
+            {
+              "name": "Million",
+              "url": "https://million.dev",
+              "tech": "Agent",
+              "domain": "软件研发"
+            },
+            {
+              "name": "Momentic",
+              "url": "https://momentic.ai",
+              "tech": "Agent",
+              "domain": "软件研发"
+            },
+            {
+              "name": "OneGrep",
+              "url": "https://www.onegrep.dev",
+              "tech": "Agent",
+              "domain": "软件研发"
+            },
+            {
+              "name": "OpenFoundry",
+              "url": "https://www.openfoundry.ai/",
+              "tech": "Agent",
+              "domain": "软件研发"
+            },
+            {
+              "name": "OpenPipe",
+              "url": "https://openpipe.ai/",
+              "tech": "Agent",
+              "domain": "软件研发"
+            },
+            {
+              "name": "Poozle",
+              "url": "https://www.usemira.ai",
+              "tech": "Agent",
+              "domain": "软件研发"
+            },
+            {
+              "name": "Pretzel AI",
+              "url": "https://withpretzel.com",
+              "tech": "Agent",
+              "domain": "软件研发"
+            },
+            {
+              "name": "Pythagora (GPT Pilot)",
+              "url": "https://pythagora.ai/",
+              "tech": "Agent",
+              "domain": "软件研发"
+            },
+            {
+              "name": "Reprompt",
+              "url": "https://repromptai.com",
+              "tech": "Agent",
+              "domain": "软件研发"
+            },
+            {
+              "name": "Shadeform",
+              "url": "https://www.shadeform.ai/",
+              "tech": "Agent",
+              "domain": "软件研发"
+            },
+            {
+              "name": "Skyvern",
+              "url": "https://www.skyvern.com/",
+              "tech": "Agent",
+              "domain": "软件研发"
+            },
+            {
+              "name": "Spine AI",
+              "url": "https://www.getspine.ai",
+              "tech": "Agent",
+              "domain": "软件研发"
+            },
+            {
+              "name": "Structured",
+              "url": "https://www.structuredlabs.io/",
+              "tech": "Agent",
+              "domain": "软件研发"
+            },
+            {
+              "name": "sudocode",
+              "url": "https://sudocode.ai/",
+              "tech": "Agent",
+              "domain": "软件研发"
+            },
+            {
+              "name": "Tusk",
+              "url": "https://usetusk.ai",
+              "tech": "Agent",
+              "domain": "软件研发"
+            },
+            {
+              "name": "Upsolve AI",
+              "url": "https://upsolve.ai/",
+              "tech": "Agent",
+              "domain": "软件研发"
+            },
+            {
+              "name": "Watto AI",
+              "url": "https://www.watto.ai",
+              "tech": "Agent",
+              "domain": "软件研发"
+            }
+          ]
+        },
+        {
+          "title": "金融",
+          "nav": [
+            {
+              "name": "Agentive",
+              "url": "https://www.goagentive.com",
+              "tech": "Agent",
+              "domain": "金融"
+            },
+            {
+              "name": "Alguna",
+              "url": "https://alguna.io",
+              "tech": "Agent",
+              "domain": "金融"
+            },
+            {
+              "name": "askLio",
+              "url": "https://www.asklio.ai",
+              "tech": "Agent",
+              "domain": "金融"
+            },
+            {
+              "name": "Arcimus",
+              "url": "https://www.arcimus.com/",
+              "tech": "Agent",
+              "domain": "金融"
+            },
+            {
+              "name": "Blume Benefits",
+              "url": "https://www.blumebenefits.com/",
+              "tech": "Agent",
+              "domain": "金融"
+            },
+            {
+              "name": "CandorIQ",
+              "url": "https://www.candoriq.com/",
+              "tech": "Agent",
+              "domain": "金融"
+            },
+            {
+              "name": "Cascading AI",
+              "url": "https://www.cascading.ai/",
+              "tech": "Agent",
+              "domain": "金融"
+            },
+            {
+              "name": "Centauri AI",
+              "url": "https://centauri-ai.tech",
+              "tech": "Agent",
+              "domain": "金融"
+            },
+            {
+              "name": "Dili",
+              "url": "https://www.diliai.com/",
+              "tech": "Agent",
+              "domain": "金融"
+            },
+            {
+              "name": "Diligent",
+              "url": "https://godiligent.ai",
+              "tech": "Agent",
+              "domain": "金融"
+            },
+            {
+              "name": "Fragment",
+              "url": "https://checkfragment.com",
+              "tech": "Agent",
+              "domain": "金融"
+            },
+            {
+              "name": "Fynt AI",
+              "url": "https://www.fynt.ai/",
+              "tech": "Agent",
+              "domain": "金融"
+            },
+            {
+              "name": "GovernGPT",
+              "url": "https://www.governgpt.ai/",
+              "tech": "Agent",
+              "domain": "金融"
+            },
+            {
+              "name": "Greenlite",
+              "url": "https://www.greenlite.ai/",
+              "tech": "Agent",
+              "domain": "金融"
+            },
+            {
+              "name": "Kobalt Labs",
+              "url": "https://www.kobaltlabs.com/",
+              "tech": "Agent",
+              "domain": "金融"
+            },
+            {
+              "name": "Lucite",
+              "url": "https://www.lucite.ai/",
+              "tech": "Agent",
+              "domain": "金融"
+            },
+            {
+              "name": "NowHouse",
+              "url": "https://www.nowhouse.io",
+              "tech": "Agent",
+              "domain": "金融"
+            },
+            {
+              "name": "OffDeal",
+              "url": "https://offdeal.io",
+              "tech": "Agent",
+              "domain": "金融"
+            },
+            {
+              "name": "Pincites",
+              "url": "https://www.pincites.com/",
+              "tech": "Agent",
+              "domain": "金融"
+            },
+            {
+              "name": "Pointhound",
+              "url": "http://www.pointhound.com",
+              "tech": "Agent",
+              "domain": "金融"
+            },
+            {
+              "name": "ProSights",
+              "url": "https://prosights.co/",
+              "tech": "Agent",
+              "domain": "金融"
+            },
+            {
+              "name": "Respaid",
+              "url": "https://www.respaid.com",
+              "tech": "Agent",
+              "domain": "金融"
+            },
+            {
+              "name": "Roame",
+              "url": "https://roame.travel/",
+              "tech": "Agent",
+              "domain": "金融"
+            },
+            {
+              "name": "Slicker",
+              "url": "https://www.slickerhq.com",
+              "tech": "Agent",
+              "domain": "金融"
+            },
+            {
+              "name": "Taiki",
+              "url": "https://www.taiki.ai",
+              "tech": "Agent",
+              "domain": "金融"
+            }
+          ]
+        },
+        {
+          "title": "CRM",
+          "nav": [
+            {
+              "name": "AgentsForce",
+              "url": "https://www.agentsforce.com/",
+              "tech": "Agent",
+              "domain": "CRM"
+            },
+            {
+              "name": "Amber AI",
+              "url": "https://helloamber.ai/",
+              "tech": "Agent",
+              "domain": "CRM"
+            },
+            {
+              "name": "Centralize",
+              "url": "https://www.usecentralize.com/",
+              "tech": "Agent",
+              "domain": "CRM"
+            },
+            {
+              "name": "Ecliptor",
+              "url": "https://ecliptor.ai",
+              "tech": "Agent",
+              "domain": "CRM"
+            },
+            {
+              "name": "Fiber AI",
+              "url": "https://fiber.ai/",
+              "tech": "Agent",
+              "domain": "CRM"
+            },
+            {
+              "name": "Firebender",
+              "url": "https://firebender.com",
+              "tech": "Agent",
+              "domain": "CRM"
+            },
+            {
+              "name": "Inventive AI",
+              "url": "https://getinventive.ai/",
+              "tech": "Agent",
+              "domain": "CRM"
+            },
+            {
+              "name": "Kiosk",
+              "url": "https://www.kiosk.so",
+              "tech": "Agent",
+              "domain": "CRM"
+            },
+            {
+              "name": "Marr Labs",
+              "url": "https://www.marrlabs.com/",
+              "tech": "Agent",
+              "domain": "CRM"
+            },
+            {
+              "name": "Octolane AI",
+              "url": "https://www.octolane.com",
+              "tech": "Agent",
+              "domain": "CRM"
+            },
+            {
+              "name": "Opencall.ai",
+              "url": "https://opencall.ai",
+              "tech": "Agent",
+              "domain": "CRM"
+            },
+            {
+              "name": "Openmart",
+              "url": "https://www.openmart.ai",
+              "tech": "Agent",
+              "domain": "CRM"
+            },
+            {
+              "name": "Quantic",
+              "url": "https://www.quantichq.com",
+              "tech": "Agent",
+              "domain": "CRM"
+            },
+            {
+              "name": "Raz",
+              "url": "https://www.tryraz.com",
+              "tech": "Agent",
+              "domain": "CRM"
+            },
+            {
+              "name": "Toma",
+              "url": "https://www.toma.so/",
+              "tech": "Agent",
+              "domain": "CRM"
+            },
+            {
+              "name": "Topo",
+              "url": "https://www.topo.io/",
+              "tech": "Agent",
+              "domain": "CRM"
+            },
+            {
+              "name": "Unhaze",
+              "url": "https://unhaze.ai",
+              "tech": "Agent",
+              "domain": "CRM"
+            },
+            {
+              "name": "Veles",
+              "url": "http://www.getveles.com",
+              "tech": "Agent",
+              "domain": "CRM"
+            },
+            {
+              "name": "venta",
+              "url": "https://www.getventa.ai",
+              "tech": "Agent",
+              "domain": "CRM"
+            }
+          ]
+        },
+        {
+          "title": "政务",
+          "nav": [
+            {
+              "name": "Aidy",
+              "url": "https://www.aidygrants.com/",
+              "tech": "Agent",
+              "domain": "政务"
+            },
+            {
+              "name": "Sweetspot",
+              "url": "https://www.sweetspot.so/",
+              "tech": "Agent",
+              "domain": "政务"
+            }
+          ]
+        },
+        {
+          "title": "泛工具",
+          "nav": [
+            {
+              "name": "Airfront",
+              "url": "https://www.airfront.com/",
+              "tech": "Agent",
+              "domain": "泛工具"
+            },
+            {
+              "name": "Brainbase",
+              "url": "https://usebrainbase.com",
+              "tech": "Agent",
+              "domain": "泛工具"
+            },
+            {
+              "name": "Danswer",
+              "url": "https://www.danswer.ai/",
+              "tech": "Agent",
+              "domain": "泛工具"
+            },
+            {
+              "name": "DryMerge",
+              "url": "https://www.drymerge.com",
+              "tech": "Agent",
+              "domain": "泛工具"
+            },
+            {
+              "name": "Happenstance",
+              "url": "https://happenstance.ai",
+              "tech": "Agent",
+              "domain": "泛工具"
+            },
+            {
+              "name": "just words",
+              "url": "https://justwords.ai",
+              "tech": "Agent",
+              "domain": "泛工具"
+            },
+            {
+              "name": "Khoj",
+              "url": "https://khoj.dev/",
+              "tech": "Agent",
+              "domain": "泛工具"
+            },
+            {
+              "name": "Martin",
+              "url": "https://www.trymartin.com/",
+              "tech": "Agent",
+              "domain": "泛工具"
+            },
+            {
+              "name": "Nowadays",
+              "url": "http://getnowadays.com/",
+              "tech": "Agent",
+              "domain": "泛工具"
+            },
+            {
+              "name": "Patchwork",
+              "url": "https://atpatchwork.com/",
+              "tech": "Agent",
+              "domain": "泛工具"
+            }
+          ]
+        },
+        {
+          "title": "医药",
+          "nav": [
+            {
+              "name": "Anaphero",
+              "url": "https://www.anaphero.com/",
+              "tech": "Agent",
+              "domain": "医药"
+            },
+            {
+              "name": "Andy AI",
+              "url": "https://with-andy.com",
+              "tech": "Agent",
+              "domain": "医药"
+            },
+            {
+              "name": "Argon AI, Inc.",
+              "url": "https://www.argon-ai.com/",
+              "tech": "Agent",
+              "domain": "医药"
+            },
+            {
+              "name": "Arini",
+              "url": "https://www.arini.ai",
+              "tech": "Agent",
+              "domain": "医药"
+            },
+            {
+              "name": "Artos",
+              "url": "https://www.artosai.com/",
+              "tech": "Agent",
+              "domain": "医药"
+            },
+            {
+              "name": "Cair Health",
+              "url": "https://www.cairhealth.com/",
+              "tech": "Agent",
+              "domain": "医药"
+            },
+            {
+              "name": "Decoda Health",
+              "url": "https://decoda.health/",
+              "tech": "Agent",
+              "domain": "医药"
+            },
+            {
+              "name": "Elythea",
+              "url": "https://elythea.org/",
+              "tech": "Agent",
+              "domain": "医药"
+            },
+            {
+              "name": "Hemingway",
+              "url": "https://hemingwayai.co",
+              "tech": "Agent",
+              "domain": "医药"
+            },
+            {
+              "name": "Hona",
+              "url": "https://www.hona.ai",
+              "tech": "Agent",
+              "domain": "医药"
+            },
+            {
+              "name": "Junction Bioscience",
+              "url": "https://www.junction.bio/",
+              "tech": "Agent",
+              "domain": "医药"
+            },
+            {
+              "name": "Kabilah",
+              "url": "https://www.kabilah.com",
+              "tech": "Agent",
+              "domain": "医药"
+            },
+            {
+              "name": "MediSearch",
+              "url": "https://medisearch.io",
+              "tech": "Agent",
+              "domain": "医药"
+            },
+            {
+              "name": "Olio Labs",
+              "url": "https://oliolabs.co/",
+              "tech": "Agent",
+              "domain": "医药"
+            },
+            {
+              "name": "Piramidal",
+              "url": "https://piramidal.ai",
+              "tech": "Agent",
+              "domain": "医药"
+            },
+            {
+              "name": "RadMate AI",
+              "url": "https://www.radmate.ai",
+              "tech": "Agent",
+              "domain": "医药"
+            },
+            {
+              "name": "Scritch",
+              "url": "https://www.joinscritch.com",
+              "tech": "Agent",
+              "domain": "医药"
+            },
+            {
+              "name": "Shasta Health",
+              "url": "https://www.shasta.health",
+              "tech": "Agent",
+              "domain": "医药"
+            },
+            {
+              "name": "Sohar Health",
+              "url": "https://www.soharhealth.com",
+              "tech": "Agent",
+              "domain": "医药"
+            },
+            {
+              "name": "Somn",
+              "url": "https://somnapp.com",
+              "tech": "Agent",
+              "domain": "医药"
+            },
+            {
+              "name": "Sonia",
+              "url": "https://soniahealth.com",
+              "tech": "Agent",
+              "domain": "医药"
+            },
+            {
+              "name": "Synaptiq",
+              "url": "https://synaptiq.co/",
+              "tech": "Agent",
+              "domain": "医药"
+            }
+          ]
+        },
+        {
+          "title": "HR",
+          "nav": [
+            {
+              "name": "Apriora",
+              "url": "https://www.apriora.ai",
+              "tech": "Agent",
+              "domain": "HR"
+            },
+            {
+              "name": "Crew",
+              "url": "https://www.trycrew.ai",
+              "tech": "Agent",
+              "domain": "HR"
+            },
+            {
+              "name": "Parasale",
+              "url": "https://parasale.io",
+              "tech": "Agent",
+              "domain": "HR"
+            }
+          ]
+        },
+        {
+          "title": "电商",
+          "nav": [
+            {
+              "name": "BetterBasket",
+              "url": "http://betterbasket.ai",
+              "tech": "Agent",
+              "domain": "电商"
+            },
+            {
+              "name": "Branch AI",
+              "url": "https://www.branch-ai.com/",
+              "tech": "Agent",
+              "domain": "电商"
+            },
+            {
+              "name": "CommodityAI",
+              "url": "https://commodityai.io/",
+              "tech": "Agent",
+              "domain": "电商"
+            },
+            {
+              "name": "FleetWorks",
+              "url": "https://fleetworks.ai",
+              "tech": "Agent",
+              "domain": "电商"
+            },
+            {
+              "name": "Lumona",
+              "url": "https://www.lumona.ai",
+              "tech": "Agent",
+              "domain": "电商"
+            },
+            {
+              "name": "RetailReady",
+              "url": "https://www.retailreadyai.com/",
+              "tech": "Agent",
+              "domain": "电商"
+            },
+            {
+              "name": "Revamp",
+              "url": "https://www.getrevamp.ai",
+              "tech": "Agent",
+              "domain": "电商"
+            },
+            {
+              "name": "trendup",
+              "url": "https://trendup.ai/",
+              "tech": "Multimodal LLM",
+              "domain": "电商"
+            },
+            {
+              "name": "truemetrics",
+              "url": "https://www.truemetrics.io/",
+              "tech": "Agent",
+              "domain": "电商"
+            }
+          ]
+        },
+        {
+          "title": "工业制造",
+          "nav": [
+            {
+              "name": "Bronco AI",
+              "url": "https://www.bronco.ai/",
+              "tech": "Agent",
+              "domain": "工业制造"
+            },
+            {
+              "name": "Navier AI",
+              "url": "http://navier.ai",
+              "tech": "Agent",
+              "domain": "工业制造"
+            },
+            {
+              "name": "ProdTrace",
+              "url": "https://www.prodtrace.com/",
+              "tech": "Agent",
+              "domain": "工业制造"
+            }
+          ]
+        },
+        {
+          "title": "AI基础设施",
+          "nav": [
+            {
+              "name": "Buster",
+              "url": "http://buster.so",
+              "tech": "Infra",
+              "domain": "AI基础设施"
+            },
+            {
+              "name": "Baserun",
+              "url": "https://baserun.ai",
+              "tech": "Agent",
+              "domain": "AI基础设施"
+            },
+            {
+              "name": "Empower",
+              "url": "https://www.empower.dev",
+              "tech": "Infra",
+              "domain": "AI基础设施"
+            },
+            {
+              "name": "Epsilla",
+              "url": "https://www.epsilla.com/",
+              "tech": "Agent",
+              "domain": "AI基础设施"
+            },
+            {
+              "name": "Giga ML",
+              "url": "https://gigaml.com/",
+              "tech": "Agent",
+              "domain": "AI基础设施"
+            },
+            {
+              "name": "Guide Labs",
+              "url": "https://www.guidelabs.ai/",
+              "tech": "Infra",
+              "domain": "AI基础设施"
+            },
+            {
+              "name": "Lantern",
+              "url": "http://lantern.dev",
+              "tech": "Agent",
+              "domain": "AI基础设施"
+            },
+            {
+              "name": "MAIHEM",
+              "url": "https://www.maihem.ai/",
+              "tech": "Agent",
+              "domain": "AI基础设施"
+            },
+            {
+              "name": "nCompass Technologies",
+              "url": "https://ncompass.tech",
+              "tech": "Infra",
+              "domain": "AI基础设施"
+            },
+            {
+              "name": "OmniAI",
+              "url": "https://getomni.ai",
+              "tech": "Agent",
+              "domain": "AI基础设施"
+            },
+            {
+              "name": "Phospho",
+              "url": "https://phospho.ai",
+              "tech": "Infra",
+              "domain": "AI基础设施"
+            },
+            {
+              "name": "Preloop",
+              "url": "https://www.preloop.com",
+              "tech": "Infra",
+              "domain": "AI基础设施"
+            },
+            {
+              "name": "Quary",
+              "url": "https://www.quary.dev",
+              "tech": "Infra",
+              "domain": "AI基础设施"
+            },
+            {
+              "name": "Ragas",
+              "url": "https://www.ragas.io",
+              "tech": "Infra",
+              "domain": "AI基础设施"
+            },
+            {
+              "name": "Retell AI",
+              "url": "https://retellai.com",
+              "tech": "Agent",
+              "domain": "AI基础设施"
+            },
+            {
+              "name": "SciPhi",
+              "url": "https://www.sciphi.ai",
+              "tech": "Agent",
+              "domain": "AI基础设施"
+            },
+            {
+              "name": "Sola",
+              "url": "https://www.sola-solutions.com/",
+              "tech": "Agent",
+              "domain": "AI基础设施"
+            },
+            {
+              "name": "sizeless",
+              "url": "https://www.sizeless.co",
+              "tech": "Agent",
+              "domain": "AI基础设施"
+            },
+            {
+              "name": "sync labs",
+              "url": "https://synclabs.so/",
+              "tech": "Multimodal LLM",
+              "domain": "AI基础设施"
+            },
+            {
+              "name": "Talc",
+              "url": "https://talc.ai",
+              "tech": "Infra",
+              "domain": "AI基础设施"
+            },
+            {
+              "name": "Taylor AI",
+              "url": "https://trytaylor.ai",
+              "tech": "Infra",
+              "domain": "AI基础设施"
+            },
+            {
+              "name": "Tensorfuse",
+              "url": "https://www.tensorfuse.io/",
+              "tech": "Infra",
+              "domain": "AI基础设施"
+            },
+            {
+              "name": "Vango AI",
+              "url": "https://vango.ai/",
+              "tech": "Infra",
+              "domain": "AI基础设施"
+            },
+            {
+              "name": "VectorShift",
+              "url": "https://www.vectorshift.ai",
+              "tech": "Agent",
+              "domain": "AI基础设施"
+            },
+            {
+              "name": "Vectorview",
+              "url": "https://vectorview.ai",
+              "tech": "Agent",
+              "domain": "AI基础设施"
+            }
+          ]
+        },
+        {
+          "title": "数据处理分析",
+          "nav": [
+            {
+              "name": "Cedalio",
+              "url": "https://cedalio.com/",
+              "tech": "区块链",
+              "domain": "数据处理分析"
+            },
+            {
+              "name": "DaLMatian",
+              "url": "https://www.dalmatian.ai/",
+              "tech": "Agent",
+              "domain": "数据处理分析"
+            },
+            {
+              "name": "Deasie",
+              "url": "https://deasie.com",
+              "tech": "Agent",
+              "domain": "数据处理分析"
+            },
+            {
+              "name": "Egress",
+              "url": "https://tryegress.com/",
+              "tech": "Agent",
+              "domain": "数据处理分析"
+            },
+            {
+              "name": "kater.ai",
+              "url": "https://www.kater.ai",
+              "tech": "Agent",
+              "domain": "数据处理分析"
+            },
+            {
+              "name": "Latentspace",
+              "url": "https://menza.ai/",
+              "tech": "Agent",
+              "domain": "数据处理分析"
+            },
+            {
+              "name": "Reducto",
+              "url": "https://reducto.ai",
+              "tech": "Agent",
+              "domain": "数据处理分析"
+            },
+            {
+              "name": "Roundtable",
+              "url": "https://roundtable.ai",
+              "tech": "Agent",
+              "domain": "数据处理分析"
+            },
+            {
+              "name": "Serra",
+              "url": "https://www.serra.io/",
+              "tech": "Agent",
+              "domain": "数据处理分析"
+            },
+            {
+              "name": "SID",
+              "url": "https://www.sid.ai",
+              "tech": "Agent",
+              "domain": "数据处理分析"
+            },
+            {
+              "name": "Trellis",
+              "url": "https://usetrellis.co",
+              "tech": "Agent",
+              "domain": "数据处理分析"
+            },
+            {
+              "name": "Vizly",
+              "url": "https://vizly.fyi",
+              "tech": "Agent",
+              "domain": "数据处理分析"
+            }
+          ]
+        },
+        {
+          "title": "内容创作",
+          "nav": [
+            {
+              "name": "Anneal",
+              "url": "https://anneal.ai/",
+              "tech": "Multimodal LLM",
+              "domain": "内容创作"
+            },
+            {
+              "name": "EdgeTrace",
+              "url": "https://edgetrace.ai",
+              "tech": "Multimodal LLM",
+              "domain": "内容创作"
+            },
+            {
+              "name": "Eggnog",
+              "url": "https://www.eggnog.ai",
+              "tech": "Multimodal LLM",
+              "domain": "内容创作"
+            },
+            {
+              "name": "Infinity AI",
+              "url": "https://infinity.ai",
+              "tech": "Multimodal LLM",
+              "domain": "内容创作"
+            },
+            {
+              "name": "Infobot",
+              "url": "https://infobot.ai/",
+              "tech": "Agent",
+              "domain": "内容创作"
+            },
+            {
+              "name": "Kino AI",
+              "url": "https://trykino.com",
+              "tech": "Multimodal LLM",
+              "domain": "内容创作"
+            },
+            {
+              "name": "Kite",
+              "url": "https://kite.video",
+              "tech": "Multimodal LLM",
+              "domain": "内容创作"
+            },
+            {
+              "name": "Magic Hour",
+              "url": "https://magichour.ai",
+              "tech": "Multimodal LLM",
+              "domain": "内容创作"
+            },
+            {
+              "name": "Nuanced, Inc.",
+              "url": "https://www.nuanced.dev/",
+              "tech": "Multimodal LLM",
+              "domain": "安全"
+            },
+            {
+              "name": "Pico",
+              "url": "http://withpico.com",
+              "tech": "Multimodal LLM",
+              "domain": "to C 工具"
+            },
+            {
+              "name": "Wuri",
+              "url": "https://www.wuri.ai/",
+              "tech": "Multimodal LLM",
+              "domain": "内容创作"
+            },
+            {
+              "name": "Yarn",
+              "url": "https://www.yarn.so",
+              "tech": "Multimodal LLM",
+              "domain": "内容创作"
+            }
+          ]
+        },
+        {
+          "title": "to C 工具",
+          "nav": [
+            {
+              "name": "Aqua Voice",
+              "url": "https://withaqua.com",
+              "tech": "Multimodal LLM",
+              "domain": "to C 工具"
+            },
+            {
+              "name": "Lavalamp",
+              "url": "https://www.lavalamp.ai",
+              "tech": "Multimodal LLM",
+              "domain": "to C 工具"
+            },
+            {
+              "name": "Sidenote",
+              "url": "https://www.sidenote.ai",
+              "tech": "Agent",
+              "domain": "to C 工具"
+            }
+          ]
+        },
+        {
+          "title": "to C 娱乐",
+          "nav": [
+            {
+              "name": "Arcane",
+              "url": "https://arcanelabs.ai/",
+              "tech": "Agent",
+              "domain": "to C 娱乐"
+            },
+            {
+              "name": "ego",
+              "url": "https://ego.live",
+              "tech": "Multimodal LLM",
+              "domain": "to C 娱乐"
+            },
+            {
+              "name": "Glade",
+              "url": "https://www.gladetool.com",
+              "tech": "Multimodal LLM",
+              "domain": "to C 娱乐"
+            },
+            {
+              "name": "PocketPod",
+              "url": "https://pocketpod.app",
+              "tech": "Agent",
+              "domain": "to C 娱乐"
+            },
+            {
+              "name": "Sonauto",
+              "url": "https://sonauto.ai/",
+              "tech": "Multimodal LLM",
+              "domain": "to C 娱乐"
+            },
+            {
+              "name": "Soundry AI",
+              "url": "https://soundry.ai/",
+              "tech": "Multimodal LLM",
+              "domain": "to C 娱乐"
+            }
+          ]
+        },
+        {
+          "title": "建筑地产",
+          "nav": [
+            {
+              "name": "Constructable",
+              "url": "https://www.constructable.ai/",
+              "tech": "Agent",
+              "domain": "建筑地产"
+            },
+            {
+              "name": "Foundation",
+              "url": "https://buildwithfoundation.com/",
+              "tech": "Agent",
+              "domain": "建筑地产"
+            },
+            {
+              "name": "HeyPurple",
+              "url": "https://www.heypurple.ai/",
+              "tech": "Agent",
+              "domain": "建筑地产"
+            },
+            {
+              "name": "InspectMind AI",
+              "url": "https://www.inspectmind.ai",
+              "tech": "Agent",
+              "domain": "建筑地产"
+            }
+          ]
+        },
+        {
+          "title": "软件研发",
+          "nav": [
+            {
+              "name": "Inlet",
+              "url": "https://getinlet.ai",
+              "tech": "Agent",
+              "domain": "软件研发"
+            },
+            {
+              "name": "Tempo Labs",
+              "url": "https://www.tempolabs.ai/",
+              "tech": "Agent",
+              "domain": "软件研发"
+            },
+            {
+              "name": "ten.dev",
+              "url": "https://ten.dev",
+              "tech": "Multimodal LLM",
+              "domain": "软件研发"
+            }
+          ]
+        },
+        {
+          "title": "物流",
+          "nav": [
+            {
+              "name": "Linc",
+              "url": "https://www.linc-ai.com/",
+              "tech": "Agent",
+              "domain": "物流"
+            },
+            {
+              "name": "Manifold Freight",
+              "url": "https://www.manifoldfreight.com/",
+              "tech": "Agent",
+              "domain": "物流"
+            },
+            {
+              "name": "Reform",
+              "url": "https://www.reformhq.com",
+              "tech": "Agent",
+              "domain": "物流"
+            }
+          ]
+        },
+        {
+          "title": "科研",
+          "nav": [
+            {
+              "name": "Lumina",
+              "url": "https://lumina-chat.com",
+              "tech": "Agent",
+              "domain": "科研"
+            },
+            {
+              "name": "Outset",
+              "url": "https://outset.ai/",
+              "tech": "Agent",
+              "domain": "科研"
+            }
+          ]
+        },
+        {
+          "title": "IT运维",
+          "nav": [
+            {
+              "name": "Metoro",
+              "url": "https://metoro.io",
+              "tech": "Agent",
+              "domain": "IT运维"
+            },
+            {
+              "name": "Risotto",
+              "url": "https://www.tryrisotto.com",
+              "tech": "Agent",
+              "domain": "IT运维"
+            }
+          ]
+        },
+        {
+          "title": "安全",
+          "nav": [
+            {
+              "name": "Corgea",
+              "url": "https://www.corgea.com/",
+              "tech": "Agent",
+              "domain": "安全"
+            },
+            {
+              "name": "PromptArmor",
+              "url": "https://promptarmor.com/",
+              "tech": "Agent",
+              "domain": "安全"
+            },
+            {
+              "name": "Remy Security",
+              "url": "https://www.remysec.com/",
+              "tech": "Agent",
+              "domain": "安全"
+            },
+            {
+              "name": "Sero AI",
+              "url": "https://getsero.ai/",
+              "tech": "Agent",
+              "domain": "安全"
+            },
+            {
+              "name": "Tracecat",
+              "url": "https://tracecat.com/",
+              "tech": "Agent",
+              "domain": "安全"
+            }
+          ]
+        },
+        {
+          "title": "教育",
+          "nav": [
+            {
+              "name": "Flint",
+              "url": "http://flintk12.com/",
+              "tech": "Multimodal LLM",
+              "domain": "教育"
+            },
+            {
+              "name": "Fluently",
+              "url": "https://getfluently.app/",
+              "tech": "Multimodal LLM",
+              "domain": "教育"
+            },
+            {
+              "name": "MathGPTPro",
+              "url": "https://info.mathgptpro.com/",
+              "tech": "Agent",
+              "domain": "教育"
+            },
+            {
+              "name": "Shepherd",
+              "url": "https://www.shepherd.study",
+              "tech": "Agent",
+              "domain": "教育"
+            },
+            {
+              "name": "Studdy",
+              "url": "https://www.studdy.ai/",
+              "tech": "Agent",
+              "domain": "教育"
+            }
+          ]
+        },
+        {
+          "title": "机器人",
+          "nav": [
+            {
+              "name": "K-Scale Labs",
+              "url": "https://kscale.dev/",
+              "tech": "机器人",
+              "domain": "机器人"
+            },
+            {
+              "name": "Pivot Robots",
+              "url": "https://pivotrobots.com/",
+              "tech": "Agent",
+              "domain": "机器人"
+            },
+            {
+              "name": "Yondu",
+              "url": "https://www.yonduai.com/",
+              "tech": "Agent",
+              "domain": "机器人"
+            }
+          ]
+        },
+        {
+          "title": "旅游",
+          "nav": [
+            {
+              "name": "HostAI",
+              "url": "https://www.hostai.app/",
+              "tech": "Agent",
+              "domain": "旅游"
+            },
+            {
+              "name": "innkeeper",
+              "url": "https://innkeeper.ai",
+              "tech": "Agent",
+              "domain": "旅游"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
