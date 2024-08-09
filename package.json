@@ -18,6 +18,7 @@
     "build-gh-pages": "npm run setup && ng build --base-href ./ --index src/index.html",
     "build": "npm run setup && ng build --index src/index.html",
     "watch": "ng build --watch --configuration development",
+    "dev": "ng dev",
     "update": "git pull && (git remote add upstream https://gitee.com/xiejiahe/nav.git || true) && git fetch upstream main && git merge upstream/main --allow-unrelated-histories --no-edit && git push",
     "pull": "git pull",
     "server": "pm2 start server.js",
