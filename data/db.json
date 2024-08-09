@@ -12,55 +12,55 @@
                 "name": "Abel",
                 "createdAt": "2023-08-09 00:00:00",
                 "rate": 5,
-                "desc": "Generative AI platform for legal professionals, providing workflow integration and automation.",
+                "desc": "面向法律专业人士的生成式人工智能平台，提供工作流程集成和自动化。",
                 "icon": "https://www.tryabel.com/favicon.ico",
                 "url": "https://www.tryabel.com",
                 "urls": {},
-                "breadcrumb": ["Domain", "Legal Tech", "AI for Legal"],
+                "breadcrumb": ["领域", "法律科技", "法律人工智能"],
                 "id": 1
               },
               {
                 "name": "Casehopper",
                 "createdAt": "2023-08-09 00:00:00",
                 "rate": 4,
-                "desc": "Agent-based legal platform for case management and workflow optimization.",
+                "desc": "基于代理的法律平台，用于案件管理和工作流程优化。",
                 "icon": "http://www.casehopper.com/favicon.ico",
                 "url": "http://www.casehopper.com",
                 "urls": {},
-                "breadcrumb": ["Domain", "Legal Tech", "Case Management"],
+                "breadcrumb": ["领域", "法律科技", "案件管理"],
                 "id": 2
               },
               {
                 "name": "Docsum",
                 "createdAt": "2023-08-09 00:00:00",
                 "rate": 4,
-                "desc": "AI agent for document summarization and legal analysis.",
+                "desc": "用于文档摘要和法律分析的人工智能代理。",
                 "icon": "https://www.docsum.ai/favicon.ico",
                 "url": "https://www.docsum.ai",
                 "urls": {},
-                "breadcrumb": ["Domain", "Legal Tech", "Document Management"],
+                "breadcrumb": ["领域", "法律科技", "文档管理"],
                 "id": 3
               },
               {
                 "name": "Leya",
                 "createdAt": "2023-08-09 00:00:00",
                 "rate": 4,
-                "desc": "Legal agent technology providing solutions for law firms.",
+                "desc": "为律师事务所提供解决方案的法律代理技术。",
                 "icon": "https://www.leya.law/favicon.ico",
                 "url": "https://www.leya.law",
                 "urls": {},
-                "breadcrumb": ["Domain", "Legal Tech", "Legal Solutions"],
+                "breadcrumb": ["领域", "法律科技", "法律解决方案"],
                 "id": 4
               },
               {
                 "name": "PointOne",
                 "createdAt": "2023-08-09 00:00:00",
                 "rate": 4,
-                "desc": "AI-powered agent for enhancing legal workflows and case analysis.",
+                "desc": "用于增强法律工作流程和案件分析的人工智能代理。",
                 "icon": "https://pointone.ai/favicon.ico",
                 "url": "https://pointone.ai",
                 "urls": {},
-                "breadcrumb": ["Domain", "Legal Tech", "AI Tools"],
+                "breadcrumb": ["领域", "法律科技", "人工智能工具"],
                 "id": 5
               }
             ]
@@ -72,22 +72,22 @@
                 "name": "Aether Energy",
                 "createdAt": "2024-08-09 00:00:00",
                 "rate": 5,
-                "desc": "An AI platform providing solutions for the energy sector.",
+                "desc": "一个为能源行业提供解决方案的人工智能平台。",
                 "icon": "https://aetherenergie.com/favicon.ico",
                 "url": "https://aetherenergie.com",
                 "urls": {},
-                "breadcrumb": ["Industry Category", "Energy", "AI"],
+                "breadcrumb": ["行业类别", "能源", "人工智能"],
                 "id": 6
               },
               {
                 "name": "Spark",
                 "createdAt": "2024-08-09 00:00:00",
                 "rate": 5,
-                "desc": "An AI platform offering intelligent energy solutions.",
+                "desc": "一个提供智能能源解决方案的人工智能平台。",
                 "icon": "https://www.sparkhq.ai/favicon.ico",
                 "url": "https://www.sparkhq.ai",
                 "urls": {},
-                "breadcrumb": ["Industry Category", "Energy", "AI"],
+                "breadcrumb": ["行业类别", "能源", "人工智能"],
                 "id": 7
               }
             ]
@@ -97,57 +97,102 @@
             "nav": [
               {
                 "name": "AgentHub",
+                "createdAt": "2024-08-09 00:00:00",
+                "rate": 5,
+                "desc": "一个用于开发代理的人工智能平台",
+                "icon": "https://www.agenthub.dev/favicon.ico",
                 "url": "https://www.agenthub.dev/",
-                "tech": "Agent",
-                "domain": "Agent开发"
+                "urls": {},
+                "breadcrumb": ["领域类别", "代理开发", "代理开发"],
+                "id": 8
               },
               {
                 "name": "Autotab",
+                "createdAt": "2024-08-09 00:00:00",
+                "rate": 5,
+                "desc": "一个用于开发代理的人工智能平台",
+                "icon": "https://autotab.com/favicon.ico",
                 "url": "https://autotab.com",
-                "tech": "Agent",
-                "domain": "Agent开发"
+                "urls": {},
+                "breadcrumb": ["领域类别", "代理开发", "代理开发"],
+                "id": 9
               },
               {
                 "name": "Basepilot",
+                "createdAt": "2024-08-09 00:00:00",
+                "rate": 5,
+                "desc": "一个用于开发代理的人工智能平台",
+                "icon": "https://www.basepilot.com/favicon.ico",
                 "url": "https://www.basepilot.com/",
-                "tech": "Agent",
-                "domain": "Agent开发"
+                "urls": {},
+                "breadcrumb": ["领域类别", "代理开发", "代理开发"],
+                "id": 10
               },
               {
                 "name": "CloudCruise",
+                "createdAt": "2024-08-09 00:00:00",
+                "rate": 5,
+                "desc": "一个用于开发代理的人工智能平台",
+                "icon": "https://cloudcruise.com/favicon.ico",
                 "url": "https://cloudcruise.com",
-                "tech": "Agent",
-                "domain": "Agent开发"
+                "urls": {},
+                "breadcrumb": ["领域类别", "代理开发", "代理开发"],
+                "id": 11
               },
               {
                 "name": "OpenCopilot",
+                "createdAt": "2024-08-09 00:00:00",
+                "rate": 5,
+                "desc": "一个用于开发代理的人工智能平台",
+                "icon": "https://opencopilot.so/favicon.ico",
                 "url": "https://opencopilot.so",
-                "tech": "Agent",
-                "domain": "Agent开发"
+                "urls": {},
+                "breadcrumb": ["领域类别", "代理开发", "代理开发"],
+                "id": 12
               },
               {
                 "name": "Paradigm",
+                "createdAt": "2024-08-09 00:00:00",
+                "rate": 5,
+                "desc": "一个用于开发代理的人工智能平台",
+                "icon": "https://www.tryparadigm.ai/favicon.ico",
                 "url": "https://www.tryparadigm.ai/",
-                "tech": "Agent",
-                "domain": "Agent开发"
+                "urls": {},
+                "breadcrumb": ["领域类别", "代理开发", "代理开发"],
+                "id": 13
               },
               {
                 "name": "Reworkd AI",
+                "createdAt": "2024-08-09 00:00:00",
+                "rate": 5,
+                "desc": "一个用于开发代理的人工智能平台",
+                "icon": "https://reworkd.ai/favicon.ico",
                 "url": "https://reworkd.ai",
-                "tech": "Agent",
-                "domain": "Agent开发"
+                "urls": {},
+                "breadcrumb": ["领域类别", "代理开发", "代理开发"],
+                "id": 14
               },
               {
                 "name": "Speck",
+                "createdAt": "2024-08-09 00:00:00",
+                "rate": 5,
+                "desc": "一个用于开发代理的人工智能平台",
+                "icon": "https://speck.bot/favicon.ico",
                 "url": "https://speck.bot",
-                "tech": "Agent",
-                "domain": "Agent开发"
+                "urls": {},
+                "breadcrumb": ["领域类别", "代理开发", "代理开发"],
+                "id": 15
               },
               {
                 "name": "Superagent",
+                "createdAt": "2024-08-09 00:00:00",
+                "rate": 5,
+                "desc": "一个用于开发代理的人工智能平台",
+                "icon": "https://superagent.sh/favicon.ico",
                 "url": "https://superagent.sh/",
-                "tech": "Agent",
-                "domain": "Agent开发"
+                "urls": {},
+                "breadcrumb": ["领域类别", "代理开发", "代理开发"],
+                "id": 16
               }
             ]
           },
