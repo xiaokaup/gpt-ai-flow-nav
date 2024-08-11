@@ -3227,48 +3227,6 @@
             ],
             "createdAt": "2024-08-09 19:41:54"
           },
-          //   {
-          //     "title": "软件研发",
-          //     "nav": [
-          //       {
-          //         "name": "Inlet",
-          //         "url": "https://getinlet.ai",
-          //         "tech": "Agent",
-          //         "domain": "软件研发",
-          //         "createdAt": "2024-08-09 19:41:54",
-          //         "breadcrumb": ["AI 项目", "领域类别", "软件研发"],
-          //         "id": 210,
-          //         "urls": {},
-          //         "rate": 5,
-          //         "desc": ""
-          //       },
-          //       {
-          //         "name": "Tempo Labs",
-          //         "url": "https://www.tempolabs.ai/",
-          //         "tech": "Agent",
-          //         "domain": "软件研发",
-          //         "createdAt": "2024-08-09 19:41:54",
-          //         "breadcrumb": ["AI 项目", "领域类别", "软件研发"],
-          //         "id": 211,
-          //         "urls": {},
-          //         "rate": 5,
-          //         "desc": ""
-          //       },
-          //       {
-          //         "name": "ten.dev",
-          //         "url": "https://ten.dev",
-          //         "tech": "Multimodal LLM",
-          //         "domain": "软件研发",
-          //         "createdAt": "2024-08-09 19:41:54",
-          //         "breadcrumb": ["AI 项目", "领域类别", "软件研发"],
-          //         "id": 212,
-          //         "urls": {},
-          //         "rate": 5,
-          //         "desc": ""
-          //       }
-          //     ],
-          //     "createdAt": "2024-08-09 19:41:54"
-          //   },
           {
             "title": "物流",
             "nav": [
